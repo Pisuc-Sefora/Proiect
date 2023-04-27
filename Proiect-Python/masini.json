@@ -1,0 +1,42 @@
+{
+  "5970": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "5970",
+    "model": "toyota",
+    "an": "2002",
+    "nrKm": "354172",
+    "inGarantie": "Nu"
+  },
+  "9": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "9",
+    "model": "dfjnkb",
+    "an": "2021",
+    "nrKm": "23456",
+    "inGarantie": "Da"
+  },
+  "9429": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "9429",
+    "model": "volvo",
+    "an": "2016",
+    "nrKm": "259009",
+    "inGarantie": "Nu"
+  },
+  "2490": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "2490",
+    "model": "mercedes",
+    "an": "2018",
+    "nrKm": "602328",
+    "inGarantie": "Nu"
+  },
+  "3811": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "3811",
+    "model": "crosstrec",
+    "an": "2004",
+    "nrKm": "404820",
+    "inGarantie": "Nu"
+  }
+}

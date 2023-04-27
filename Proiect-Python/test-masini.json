@@ -1,0 +1,18 @@
+{
+  "1": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "1",
+    "model": "Bw",
+    "an": "2021",
+    "nrKm": "10000",
+    "inGarantie": "Da"
+  },
+  "2": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "2",
+    "model": "Mercedes",
+    "an": "2017",
+    "nrKm": "670000",
+    "inGarantie": "Nu"
+  }
+}
