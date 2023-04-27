@@ -1,0 +1,3 @@
+C:/Users/pisuc/CLionProjects/ProiectSDA/cmake-build-debug/CMakeFiles/ProiectSDA.dir
+C:/Users/pisuc/CLionProjects/ProiectSDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pisuc/CLionProjects/ProiectSDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
